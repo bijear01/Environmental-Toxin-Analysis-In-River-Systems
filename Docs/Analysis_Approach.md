@@ -109,7 +109,7 @@ Synthesized all findings into clear insights:
 | Datetime Conversion	 | Enable temporal analysis |
 
 ---
-5. Key Takeaways from the Approach
+### 5. Key Takeaways from the Approach
 ---
 
 1. **Data Quality First**– Cleaning and handling missing values was performed early to ensure reliable results.
