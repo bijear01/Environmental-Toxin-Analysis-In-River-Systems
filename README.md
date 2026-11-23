@@ -100,19 +100,19 @@ The results highlight the importance of continuous monitoring of heavy metal acc
 ## How to Run the Analysis
 1. Clone the repository:
 
-  ``bash
+  ``
   git clone https://github.com/bijear01/Evironmentak-Toxin-Analysis-In-River-Systems.git
 cd Evironmentak-Toxin-Analysis-In-River-Systems
 ```
 2. Install the required dependencies:
 
-```bash
+```
     pip install -r requirements.txt
 ```
 
 3. Open the Jupyter Notebook:
 
-```bash
+```
    jupyter notebook "Notebooks/Environmental Toxin Analysis in River Systems.ipynb"
 ```
 
