@@ -17,7 +17,7 @@ This analysis examines global river-system water quality and toxin concentration
 - Detailed documentation of the full analysis approach and methodology
 
 ## Repository Structure
-'''text
+```
 Evironmentak-Toxin-Analysis-In-River-Systems/
 │
 ├── Assets/                          # Screenshots and visual outputs from the analysis
@@ -42,7 +42,7 @@ Evironmentak-Toxin-Analysis-In-River-Systems/
 ├── LICENSE                          # MIT License
 ├── README.md                        # Project overview and documentation
 └── requirements.txt                 # Python dependencies
-'''
+```
 
 ## Analysis Approach
 A complete step-by-step breakdown of the analytical methodology used in this project is available here:
