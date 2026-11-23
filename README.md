@@ -81,17 +81,21 @@ The dataset includes measurements from multiple major river systems over several
 
 ## Key Finding from the Analysis
 ### Overall Toxin Levels
-- Arsenic (~3.598) and Lead (~3.011) show the highest overall average concentrations.
-- Mercury (~0.596) is significantly lower on average than the other heavy metals.
+- **Arsenic** (~3.598) and **Lead** (~3.011) show the highest overall average concentrations.
+- **Mercury** (~0.596) is significantly lower on average than the other heavy metals.
 ### Most Polluted River Systems (by Lead)
-Yangtze recorded the highest average lead level (~4.011).
-Mississippi followed closely (~3.478).
-Amazon showed one of the lower average lead concentrations among the top entries (~2.031).
+- **Yangtze** recorded the highest average lead level (~4.011).
+- **Mississippi** followed closely (~3.478).
+- **Amazon** showed one of the lower average lead concentrations among the top entries (~2.031).
+  
 ### Statistical Insights
-- An independent two-sample t-test between the Amazon and Nile river systems for Lead levels produced a T-statistic of approximately -20.24 and a near-zero p-value, confirming a statistically significant difference in pollutant burden between the two basins.
-- Linear regression between pH_Level and Lead indicated a positive relationship (coefficient ≈ 0.803), suggesting that higher (more basic) pH values tend to be associated with higher lead concentrations in this dataset.
+- An independent two-sample t-test between the **Amazon** and **Nile** river systems for Lead levels produced a T-statistic of approximately **-20.24** and a near-zero p-value, confirming a statistically significant difference in pollutant burden between the two basins.
+- Linear regression between **pH_Level** and **Lead** indicated a positive relationship (coefficient ≈ 0.803), suggesting that higher (more basic) pH values tend to be associated with higher lead concentrations in this dataset.
+  
 ### Implications
-The results highlight the importance of continuous monitoring of heavy metal accumulation and nutrient pollution in major global waterways. Differences in toxin profiles across river systems indicate that environmental policies and remediation efforts should be tailored to local industrial, agricultural, and geographical conditions rather than applying one-size-fits-all strategies.
+The results highlight the importance of continuous monitoring of heavy metal accumulation and nutrient pollution in major global waterways. Differences in toxin profiles across river systems suggest that environmental policies and remediation efforts should be tailored to local industrial, agricultural, and geographic conditions rather than using one-size-fits-all strategies.
+
+---
 
 ## How to Run the Analysis
 1. Clone the repository:
