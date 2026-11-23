@@ -99,29 +99,42 @@ The results highlight the importance of continuous monitoring of heavy metal acc
 
 ## How to Run the Analysis
 1. Clone the repository:
-  git clone https://github.com/Darrenvandervelde/Evironmentak-Toxin-Analysis-In-River-Systems.git
+
+  ``bash
+  git clone https://github.com/bijear01/Evironmentak-Toxin-Analysis-In-River-Systems.git
 cd Evironmentak-Toxin-Analysis-In-River-Systems
+```
 2. Install the required dependencies:
+
+```bash
     pip install -r requirements.txt
+```
+
 3. Open the Jupyter Notebook:
+
+```bash
    jupyter notebook "Notebooks/Environmental Toxin Analysis in River Systems.ipynb"
+```
+
 4. The notebook loads the dataset from the same directory (or adjust the path to point to Dataset/Clean/National_River_Toxin_Dataset_1.csv).
 
 ## Technologies Used
-- Python
-- Pandas – data loading and manipulation
-- NumPy – numerical operations
-- Matplotlib & Seaborn – data visualization
-- SciPy – statistical tests (t-test)
-- Scikit-learn – linear regression
-- Statsmodels – time-series seasonal decomposition
-- Jupyter Notebook – interactive analysis and documentation
+- **Python**
+- **Pandas** – data loading and manipulation
+- **NumPy** – numerical operations
+- **Matplotlib & Seaborn** – data visualization
+- **SciPy** – statistical tests (t-test)
+- **Scikit-learn** – linear regression
+- **Statsmodels** – time-series seasonal decomposition
+- **Jupyter Notebook** – interactive analysis and documentation
+
+---
 
 ## Visual Outputs
-Graph screenshots and key visualizations from the notebook are stored in the Assets/ folder.
-A complete written report (including both code explanations and visuals) is available as a PDF in the Docs/ folder.
-A detailed explanation of the full analysis methodology can be found in Docs/ANALYSIS_APPROACH.md.
+Graph screenshots and key visualizations from the notebook are stored in the `Assets/` folder.
+A complete written report (including both code explanations and visuals) is available as a PDF in the `Docs/` folder.
+A detailed explanation of the full analysis methodology can be found in [`Docs/ANALYSIS_APPROACH.md`](Docs/ANALYSIS-APPROACH.md).
 
 ## Licence 
-This project is released under the MIT License. See the LICENSE file for full details.
+This project is released under **the MIT License**. See the [LICENSE](LICENCE) file for full details.
 
