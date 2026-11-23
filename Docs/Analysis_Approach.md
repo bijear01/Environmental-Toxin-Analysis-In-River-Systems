@@ -2,10 +2,10 @@
 The goal of this analysis was to perform a comprehensive exploratory data analysis (EDA) on water quality and toxin concentrations across major global river systems. The focus was on understanding heavy metal pollution (Lead, Mercury, Arsenic), nutrient levels, and key water chemistry parameters, and identifying statistically meaningful differences between river systems.
 
 ## 2. Dataset Overview
-- Source File: National_River_Toxin_Dataset_1.csv
-- Records: 1,305 observations
-- Time Period: 2018 – 2023
-- Key Variables:
+- **Source File:** `National_River_Toxin_Dataset_1.csv`
+- **Records:** 1,305 observations
+- **Time Period:** 2018 – 2023
+- **Key Variables:**
   - Date
   - River_System
   - pH_Level
