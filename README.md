@@ -62,20 +62,22 @@ This document covers:
 
  
 ## Dataset Information
-File: National_River_Toxin_Dataset_1.csv
+**File:** `National_River_Toxin_Dataset_1.csv`
 
-Column	Description
-Date	Sampling date (2018-01-01 onwards)
-River_System	Name of the river system
-pH_Level	Acidity/alkalinity of the water
-Temperature	Water temperature
-Lead	Lead concentration
-Mercury	Mercury concentration
-Arsenic	Arsenic concentration
-Nitrates	Nitrate levels
-Phosphates	Phosphate levels
-Dissolved_Oxygen	Dissolved oxygen concentration
-The dataset contains measurements from multiple major river systems over several years, allowing both cross-sectional and temporal analysis.
+|Column	| Description |
+|---  | --- |
+| Date	|Sampling date (2018-01-01 onwards) |
+| River_System |	Name of the river system |
+| pH_Level | Acidity/alkalinity of the water |
+| Temperature |	Water temperature |
+| Lead	| Lead concentration |
+| Mercury	|Mercury concentration |
+| Arsenic	|Arsenic concentration |
+| Nitrates |	Nitrate levels |
+| Phosphates	| Phosphate levels |
+| Dissolved_Oxygen	| Dissolved oxygen concentration |
+
+The dataset includes measurements from multiple major river systems over several years, enabling cross-sectional and temporal analysis.
 
 ## Key Finding from the Analysis
 ### Overall Toxin Levels
