@@ -43,21 +43,22 @@ Evironmentak-Toxin-Analysis-In-River-Systems/
 ├── README.md                        # Project overview and documentation
 └── requirements.txt                 # Python dependencies
 ```
+---
 
 ## Analysis Approach
 A complete step-by-step breakdown of the analytical methodology used in this project is available here:
 
-→ Docs/ANALYSIS_APPROACH.md
+→ [Docs/ANALYSIS_APPROACH.md](Docs/ANALYSIS_APPROACH.md)
 
 This document covers:
 
-Data loading and cleaning process
-Missing value handling strategy
-Descriptive statistics and ranking of polluted river systems
-Time-series visualization approach
-Hypothesis testing (t-test) methodology and results
-Linear regression analysis between pH and Lead
-Key takeaways and interpretation of findings
+- Data loading and cleaning process
+- Missing value handling strategy
+- Descriptive statistics and ranking of polluted river systems
+- Time-series visualization approach
+- Hypothesis testing (t-test) methodology and results
+- Linear regression analysis between pH and Lead
+- Key takeaways and interpretation of findings
 
  
 ## Dataset Information
